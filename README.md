@@ -2,7 +2,7 @@
 
 <ul>
 Credit Card Fraud Detection using Machine Learning can be done using:
-  <br>
+  <br><br>
 
 <li>Unsupervised Learning</li> -
 * Machine Learning Algorithms such as Isolation Forest, One-class SVM, LOF, etc., do not require labeled data for training the model. They identify patterns in the data and try to group the data points based on observed similarities in patterns. 
