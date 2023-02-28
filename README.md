@@ -1,12 +1,13 @@
 # Credit_Card_Fraud_Detection
 
 <ul>
-Credit Card Fraud Detection using Machine Learning can be done using
+Credit Card Fraud Detection using Machine Learning can be done using:
+  <br>
 
-Unsupervised Learning -
+<li>Unsupervised Learning</li> -
 * Machine Learning Algorithms such as Isolation Forest, One-class SVM, LOF, etc., do not require labeled data for training the model. They identify patterns in the data and try to group the data points based on observed similarities in patterns. 
 
-Supervised Learning
+<li>Supervised Learning</li> -
 * Machine Learning and Deep Learning Algorithms such as Ensemble Models (RandomForest, XGBoost, LightGBM, etc.), KNN, Neural Networks, Autoencoders, etc. These algorithms are trained on labeled data, and the model learns to predict the labels for the unseen data. Labeled data can be expensive to gather. 
 
 
