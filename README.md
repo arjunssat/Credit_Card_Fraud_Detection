@@ -12,7 +12,7 @@ The process of automatically differentiating between fraudulent and genuine user
 </ul><br>
 
 <ul>
-Credit Card Fraud Detection using Machine Learning can be done using:
+Credit Card Fraud Detection's using Machine Learning can be done using:
   <br><br>
 
 <li>Unsupervised Learning</li> -
